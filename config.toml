@@ -1,0 +1,4 @@
+baseURL = "http://nse1.netlify.com/"
+languageCode = "en-us"
+title = "Test Hugo Please"
+themee = "pulp"
